@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Omprakash-Tripathy
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning DevOps
-- 🌱 I know languages like C, C++, Java, HTML and CSS and Python
+- 🌱 I know languages like C, C++, Java, SQL, HTML and CSS and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - @_.omprakashh._ on Instagram
 - 📫 Always Running Forward
