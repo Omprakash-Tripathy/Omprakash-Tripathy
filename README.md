@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Omprakash-Tripathy
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning DevOps
+- 🌱 I know languages like C, C++, Java, HTML and CSS and Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - @blood._.moon24 on Instagram
+- 📫 How to reach me - @_.omprakashh._ on Instagram
 
 <!---
 Omprakash-Tripathy/Omprakash-Tripathy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
