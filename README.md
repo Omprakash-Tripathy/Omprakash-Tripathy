@@ -11,4 +11,6 @@ Omprakash-Tripathy/Omprakash-Tripathy is a ✨ special ✨ repository because it
 You can click the Preview link to take a look at your changes.
 --->
 
-![image](https://user-images.githubusercontent.com/91965383/227646844-ef578433-d1e3-42e2-994d-c26c98dcb0b7.png)
+The snake ate all my contribution: 
+
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/91965383/227647056-b3baedb7-0b65-4676-a2fb-ae0b74b21871.gif)
