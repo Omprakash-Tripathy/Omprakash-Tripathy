@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Omprakash-Tripathy
-- 👀 I’m interested in DevOps
+- 👀 I’m interested in Cloud Computing, DevOps and Bussiness Analytics
 - 🌱 I’m currently learning DevOps
 - 🌱 I know languages like C, C++, Java, SQL, HTML and CSS and Python
 - 💞️ I’m looking to collaborate on ...
