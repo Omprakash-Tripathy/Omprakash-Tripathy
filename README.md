@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Omprakash-Tripathy
-- 👀 I’m interested in Cloud Computing, DevOps and Bussiness Analytics
-- 🌱 I’m currently learning DevOps
+- 👀 I’m interested in Cloud Computing and Bussiness Analytics
+- 🌱 I’m currently doing a Google Professional Certificate on Data Analytics
 - 🌱 I know languages like C, C++, Java, SQL, HTML and CSS and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - @_.omprakashh._ on Instagram
