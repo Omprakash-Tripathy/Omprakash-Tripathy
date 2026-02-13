@@ -19,14 +19,14 @@ const noResponses = [
   },
   {
     question: 'Don’t break my tiny heart 💔 I am literally your baby',
-    plea: 'Look! Tiny bear holding a tiny love letter.',
+    plea: 'Look! This is me flabbergasted and heartbroken from your response.',
     image: 'https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif',
     alt: 'Adorable bear with heart'
   },
   {
     question: 'Last chance to save me from sadness 😭',
     plea: 'I promise unlimited hugs and forehead kisses.',
-    image: 'https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif',
+    image: 'https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd21sZnZ2MjFxOGY2Yjkwdzg1ODAxcTJwOHU3eGZ4emM1NnkzMm0xdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P53TSsopKicrm/giphy.gif',
     alt: 'Crying cute animal asking for love'
   }
 ];
