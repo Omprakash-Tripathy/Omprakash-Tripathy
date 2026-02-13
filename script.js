@@ -14,7 +14,7 @@ const noResponses = [
   {
     question: 'Babiegang Pretty please with extra sprinkles? 🍓',
     plea: 'I even practiced my cutest face just for this moment.',
-    image: 'https://media.giphy.com/media/l0HlK8p0RkW6uS6gM/giphy.gif',
+    image: 'https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhlNWc5bXd2eWhrOG1vanJnN3NyZXFoaXY1bmR2N3djdG1pdG1zYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oxHQfvDzo7VhSRy8M/giphy.gif',
     alt: 'Cute cat begging lovingly'
   },
   {
