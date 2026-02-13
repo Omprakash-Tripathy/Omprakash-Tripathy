@@ -7,32 +7,32 @@ const noBtn = document.getElementById('no-btn');
 const noResponses = [
   {
     question: 'Are you suuure babyluv? 🥺',
-    plea: 'I can do your dishes for a week... maybe two.',
+    plea: 'I can do your dishes for a week... maybe two 😓',
     image: 'https://media.giphy.com/media/9Y5BbDSkSTiY8/giphy.gif',
     alt: 'Puppy making pleading eyes'
   },
   {
     question: 'Babiegang Pretty please with extra sprinkles? 🍓',
-    plea: 'I even practiced my cutest face just for this moment.',
+    plea: 'I even practiced my cutest face just for this moment :3',
     image: 'https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhlNWc5bXd2eWhrOG1vanJnN3NyZXFoaXY1bmR2N3djdG1pdG1zYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oxHQfvDzo7VhSRy8M/giphy.gif',
     alt: 'Cute cat begging lovingly'
   },
   {
     question: 'Don’t break my tiny heart 💔 I am literally your baby',
-    plea: 'Look! This is me flabbergasted and heartbroken from your response.',
+    plea: 'Look! This is me flabbergasted and heartbroken from your response :(',
     image: 'https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif',
     alt: 'Adorable bear with heart'
   },
   {
     question: 'Last chance to save me from sadness 😭',
-    plea: 'I promise unlimited hugs and forehead kisses.',
+    plea: 'I promise unlimited hugs and forehead kisses truss truss trustwimm',
     image: 'https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd21sZnZ2MjFxOGY2Yjkwdzg1ODAxcTJwOHU3eGZ4emM1NnkzMm0xdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P53TSsopKicrm/giphy.gif',
     alt: 'Crying cute animal asking for love'
   }
 ];
 
 const yesResponse = {
-  question: 'YAYYYYY! You made me the happiest ever! 💞',
+  question: 'YAYYYYY! You made me the happiest ever! 💞 (I have succeeded in my evil plans to love you forever)',
   plea: 'Best. Valentine. Ever. I adore you! ✨',
   image: 'https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif',
   alt: 'Happy dancing cute animals celebrating'
