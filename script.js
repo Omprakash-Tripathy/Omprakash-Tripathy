@@ -6,19 +6,19 @@ const noBtn = document.getElementById('no-btn');
 
 const noResponses = [
   {
-    question: 'Are you suuure? 🥺',
+    question: 'Are you suuure babyluv? 🥺',
     plea: 'I can do your dishes for a week... maybe two.',
     image: 'https://media.giphy.com/media/9Y5BbDSkSTiY8/giphy.gif',
     alt: 'Puppy making pleading eyes'
   },
   {
-    question: 'Pretty please with extra sprinkles? 🍓',
+    question: 'Babiegang Pretty please with extra sprinkles? 🍓',
     plea: 'I even practiced my cutest face just for this moment.',
     image: 'https://media.giphy.com/media/l0HlK8p0RkW6uS6gM/giphy.gif',
     alt: 'Cute cat begging lovingly'
   },
   {
-    question: 'Don’t break my tiny heart 💔',
+    question: 'Don’t break my tiny heart 💔 I am literally your baby',
     plea: 'Look! Tiny bear holding a tiny love letter.',
     image: 'https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif',
     alt: 'Adorable bear with heart'
